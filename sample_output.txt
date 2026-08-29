@@ -1,0 +1,32 @@
+=== OUTPUT: PREPROCESSING RESULTS ===
+[Doc 1] Raw : Deep learning models for algorithmic trading and stock price prediction.
+[Doc 1] Preprocessed : deep learn model algorithm trade stock price predic
+-----------------------------------------------------------------
+[Doc 2] Raw : Core banking systems utilizing structured customer data and account management.
+[Doc 2] Preprocessed : core bank system util structur custom data account manag
+-----------------------------------------------------------------
+[Doc 3] Raw : Neural network approaches to credit risk classification and default prediction.
+[Doc 3] Preprocessed : neural network approach credit risk classif default predic
+
+=== OUTPUT: TF-IDF MATRIX SUMMARY ===
+Total Unique Vocabulary Features : 69
+Matrix Dimension (Docs x Terms) : (10, 69)
+
+=== QUERY EXECUTION OUTPUT ===
+RAW QUERY : 'deep learning stock trading prediction'
+PROCESSED QUERY : 'deep learn stock trade predic'
+Rank   Doc ID   Score
+1      Doc 1    0.8117
+2      Doc 3    0.1219
+3      Doc 9    0.0000
+
+=== PIPELINE EVALUATION METRICS ===
+Total Raw Corpus Word Count : 98
+Unique Raw Vocabulary Terms : 78
+Processed Features (TF-IDF) : 69
+Vocabulary Dimension Reduction: 11.54%
+
+=== CLASS SEARCH RESULTS ===
+Rank   Doc ID   Score
+1      Doc 3    0.7964
+2      Doc 6    0.1184

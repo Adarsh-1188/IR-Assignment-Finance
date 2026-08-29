@@ -1,0 +1,9 @@
+Basic verification checklist
+
+1. Confirmed that the corpus contains 10 finance/banking documents.
+2. Preprocessing uses lowercase conversion, non-alphabetic character removal,
+   English stop-word removal, and Porter stemming.
+3. TF-IDF is generated with scikit-learn's TfidfVectorizer.
+4. Query ranking uses cosine similarity.
+5. The sample queries and reported scores are taken from the assignment documentation.
+6. Run `python run_project.py` after installing requirements to verify execution.

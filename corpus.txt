@@ -1,0 +1,10 @@
+Doc 1: Deep learning models for algorithmic trading and stock price prediction.
+Doc 2: Core banking systems utilizing structured customer data and account management.
+Doc 3: Neural network approaches to credit risk classification and default prediction.
+Doc 4: Evaluating fraud detection systems using precision and recall metrics.
+Doc 5: Natural language processing techniques for extracting information from earnings call transcripts.
+Doc 6: Applying convolutional networks to check image processing and cheque fraud detection.
+Doc 7: Efficient indexing algorithms for large scale financial transaction databases.
+Doc 8: Portfolio optimization techniques using quantitative investment models.
+Doc 9: Comparative analysis of blockchain settlement methods and transaction execution time.
+Doc 10: Mobile banking platforms and real time payment monitoring in digital finance.
